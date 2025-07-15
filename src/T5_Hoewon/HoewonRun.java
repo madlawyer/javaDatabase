@@ -35,7 +35,10 @@ public class HoewonRun {
 					run = false;
 			}
 		}
-		System.out.println("\n작업을 종료합니다^.^......");
+		System.out.println("\n작업을 종료합니다1^.^......");
+		System.out.println("\n작업을 종료합니다2^.^......");
+		System.out.println("\n작업을 종료합니다3^.^......");
+		System.out.println("\n작업을 종료합니다4^.^......");
 		
 		scanner.close();
 	}
